@@ -1,0 +1,7 @@
+<templateSet group="our">
+  <template name="log" value="private static Logger = Logger" description="Add logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
