@@ -6,6 +6,7 @@
       <value>
         <package name="java.awt" withSubpackages="false" static="false" />
         <package name="my.test123" withSubpackages="false" static="false" />
+        <package name="my.test1234" withSubpackages="false" static="false" />
         <package name="javax.swing" withSubpackages="false" static="false" />
       </value>
     </option>
